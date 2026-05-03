@@ -1,16 +1,27 @@
-## Hi there 👋
+# Eu sou o Pedro!
 
-<!--
-**pedpalma/pedpalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Focado em desenvolvimento backend e web  
+🚀 Aprendendo: Python, Java, APIs, Banco de Dados  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+- Python
+- Java
+- HTML, CSS, JavaScript
+- PostgreSQL / MySQL
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+- 🔗 G-Lab Website - Uma landing page para a empresa G-Lab Telecom.
+- 🔗 G-Lab ERP - Sistema de manuseio de ONUs e OLTs via FastAPI.
+
+## 📫 Contato
+- Email: pedro.francisco.palma@gmail.com
+- 
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedpalma&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedpalma&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=pedpalma&theme=tokyonight)
