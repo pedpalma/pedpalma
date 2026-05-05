@@ -6,7 +6,6 @@
 
 ## 🛠️ Tecnologias
 - Python
-- Java
 - HTML, CSS, JavaScript
 - PostgreSQL / MySQL
 - Git e GitHub
@@ -17,11 +16,9 @@
 
 ## 📫 Contato
 - Email: pedro.francisco.palma@gmail.com
-- 
+  
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedpalma&show_icons=true&theme=tokyonight?username=pedpalma&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedpalma&layout=compact&theme=tokyonight?username=pedpalma&show_icons=true&theme=tokyonight&cache_seconds=1800)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedpalma)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pedpalma&theme=tokyonight)
