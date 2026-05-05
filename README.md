@@ -19,6 +19,5 @@
   
 ## 📊 Estatísticas
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedpalma)](https://github.com/pedpalma/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedpalma&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pedpalma&theme=tokyonight)
