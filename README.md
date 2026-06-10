@@ -47,6 +47,7 @@ Linux • Python • FastAPI • PostgreSQL • Next.js
 
 ### Deploy e Hospedagem
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 
 ---
 
